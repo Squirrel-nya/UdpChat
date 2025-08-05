@@ -1,0 +1,14 @@
+{
+  "Messages": [
+    {
+      "Timestamp": "2025-08-05T10:53:39.7432245+03:00",
+      "SenderId": "d3f85070-17dc-471c-9c59-20201d47381e",
+      "SenderName": "User2377",
+      "Message": "\u0442\u0435\u0441\u0442",
+      "IsDelivered": true,
+      "MessageId": "1c0ed695-de97-47ba-ac61-1921be356913"
+    }
+  ],
+  "CreatedAt": "2025-08-05T10:53:36.1011717+03:00",
+  "ClientId": "d3f85070-17dc-471c-9c59-20201d47381e"
+}
